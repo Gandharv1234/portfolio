@@ -59,7 +59,7 @@ const Home = () => {
           <Col>
             <ProfileButton
               logo={<FaFileDownload className={styles.iconSmall} />}
-              href="https://app.luminpdf.com/viewer/62488b35c7eb2ef584dff375"
+              href="https://app.luminpdf.com/viewer/62499449c7eb2ef584e8adc6"
             >
               Résumé
             </ProfileButton>
