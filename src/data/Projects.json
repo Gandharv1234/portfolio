@@ -1,0 +1,30 @@
+[        
+    {
+        "title": "Weather Api",
+        "content": "A Web App which allows user to search for different weather conditions across India. Fetches data from a weather api.",
+        "gitHubUrl": "https://github.com/Gandharv1234/Weather-Api",
+        "liveUrl": null,
+        "techStack": ["Express", "HBS", "CSS"]
+    },
+    {
+        "title": "Text Utils",
+        "content": "A Web App which allows user to enter text and play with it. A user can convert the text to lowercase or uppercase or can copy the text.",
+        "gitHubUrl": "https://github.com/Gandharv1234/Weather-Api",
+        "liveUrl": null,
+        "techStack": ["Express", "HBS", "CSS"]
+    },
+    {
+        "title": "IOT Based Security Door Lock System",
+        "content": "An Iot based software in which a user can open or close the door lock by their mobile device.",
+        "gitHubUrl": null,
+        "liveUrl": null,
+        "techStack": ["IOT"]
+    },
+    {
+        "title": "Fithub",
+        "content": "An android app in which a user can scan edible objects and get its respective calorie count. In this app user can also have its own diet chart.",
+        "gitHubUrl": null,
+        "liveUrl": null,
+        "techStack": ["React","MongoDB"]
+    }
+]
